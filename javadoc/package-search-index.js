@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"info.kgeorgiy.ja.Gebesht.implementor"},{"l":"info.kgeorgiy.java.advanced.implementor"},{"l":"info.kgeorgiy.java.advanced.implementor.tools"}];updateSearchResults();
